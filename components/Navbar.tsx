@@ -165,7 +165,7 @@ export default function Navbar() {
                         <Link href="/" className="flex items-center gap-2">
                             <div className="flex flex-col items-center">
                                 <span className="font-serif text-2xl sm:text-3xl lg:text-4xl font-semibold tracking-wide text-gold-gradient">
-                                    JYOTI
+                                    SAMPLE
                                 </span>
                                 <span className="text-[10px] sm:text-xs tracking-[0.3em] text-muted-foreground uppercase">
                                     Jewellers
