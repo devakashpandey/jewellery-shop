@@ -64,7 +64,7 @@ export default function Navbar() {
                                         <div className="p-6 border-b border-border/50 shadow-sm bg-secondary/20">
                                             <SheetHeader className="text-left">
                                                 <SheetTitle className="font-serif text-3xl">
-                                                    <span className="text-gold-gradient">Jyoti</span>
+                                                    <span className="text-gold-gradient">Sample</span>
                                                     <span className="block text-[10px] tracking-[0.4em] text-muted-foreground uppercase mt-1 font-sans font-normal">Jewellers</span>
                                                 </SheetTitle>
                                             </SheetHeader>
