@@ -240,7 +240,7 @@ export default function Footer() {
                             </div>
                             <div>
                                 <p className="text-sm text-white/60">Email Us</p>
-                                <p className="text-sm">care@jyotijewellers.com</p>
+                                <p className="text-sm">care@samplejewellers.com</p>
                             </div>
                         </div>
                     </div>
@@ -252,7 +252,7 @@ export default function Footer() {
                 <div className="container mx-auto px-4 py-6">
                     <div className="flex flex-col md:flex-row items-center justify-between gap-4">
                         <p className="text-sm text-white/60 text-center md:text-left">
-                            © {new Date().getFullYear()} Jyoti Jewellers. All rights reserved.
+                            © {new Date().getFullYear()} Sample Jewellers. All rights reserved.
                         </p>
                         <div className="flex flex-wrap items-center justify-center gap-4 md:gap-6">
                             <Link
